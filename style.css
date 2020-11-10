@@ -17,7 +17,7 @@
     width: 80vw;
     height: 100vh;
 
-    background-image: url('img1.jpg');
+    background-image: url('../imagens/img1.jpg');
     background-size: cover;
 }
 
@@ -70,6 +70,10 @@
 
     border: 1px solid rgb(204, 204, 204);
     border-radius: 5px;
+
+    outline: none;
+
+    padding: 0 10px;
 }
 
 .content-page main .content-main .login h4  {
@@ -83,6 +87,10 @@
 
     border: 1px solid rgb(204, 204, 204);
     border-radius: 5px;
+
+    outline: none;
+
+    padding: 0 10px;
 }
 
 .content-page main .content-main .login .lembrar-me {
@@ -127,6 +135,8 @@
 
     color: white;
 
+    outline: none;
+
     border: none;
     border-radius: 5px;
 
@@ -142,6 +152,8 @@
     align-items: center;
 
     background: #2D3748;
+
+    outline: none;
 
     color: white;
 
